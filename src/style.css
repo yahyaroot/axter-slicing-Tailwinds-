@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.heroimage{
+    max-height:639.42px;
+    max-width:829px ;
+    
+}
+
+.imageabout{
+    min-height:650px; 
+    max-width:804px ;
+
+}
+
+.rafiki-image{
+    max-height: 48rem;
+}
